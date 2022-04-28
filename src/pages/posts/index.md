@@ -17,7 +17,7 @@ Conoce más acerca de mí
 ### Correo: perepump@gmail.com
 Coach y jugador de Fútbol Americano
 
-![Tobias](/public/tobiasgtz.jpg)
+![Tobias](../../../public/tobiasgtz.jpg)
 
 
 
